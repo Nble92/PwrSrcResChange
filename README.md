@@ -1,4 +1,5 @@
 README for resChangeV2.ps1
+
 Overview
 This PowerShell script is designed to automate display resolution changes based on the power source of the computer. Specifically, it checks whether the system is running on AC power (plugged in) and adjusts the display resolution accordingly.
 
